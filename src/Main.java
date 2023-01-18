@@ -19,6 +19,8 @@ class Knight {
         getFood();
         assembleTeam();
         System.out.println("Да иду уже...");
+        System.out.println("Да иду уже...");
+        System.out.println("Да иду уже...");
     }
 
     public void sharpenBlade() {
