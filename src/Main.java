@@ -8,6 +8,7 @@ public class Main {
         Matcher matcher = pattern.matcher(text);
         while (matcher.find()) {
             System.out.println(text.substring(matcher.start(), matcher.end()));
+            System.out.println("abracadabra");
         }
     }
 }
